@@ -1,0 +1,1 @@
+# MTG-Top-8-Scraper
